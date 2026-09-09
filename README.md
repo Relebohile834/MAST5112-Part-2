@@ -2,6 +2,9 @@
 
 # Code can be found in the App.tsx
 
+# Video Link (YouTube)
+https://youtu.be/teL9Uc2U6KA
+
 # Chef's Menu Manager
 A React Native mobile application that helps restaurant owners and chefs manage their menu digitally — no more paper lists. Built as part of the MAST5112 Portfolio of Evidence.
 
