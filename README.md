@@ -3,7 +3,7 @@
 Code can be found in the App.tsx
 
 # Links
-- Video link (YouTube, unlisted): _paste your new video link here_
+- Video link (YouTube, unlisted): https://youtu.be/TObOjWGqaT8
 - GitHub repository: https://github.com/Relebohile834/MAST5112-Part-2
 
 # Chef's Menu Manager
