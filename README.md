@@ -34,7 +34,26 @@ This final version of the app allows the chef to:
 - **Empty state messaging** — friendly messages when the menu is empty, when no dishes match a search, and when there are no statistics yet
 
 # Screenshots
-_Add your new screenshots here (Menu screen, Add Dish, Edit screen, Search/Filter, Statistics, Delete confirmation)._
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/9040a1d2-4f85-4434-9681-a9033e665728" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/f059ab81-7862-47de-9339-4483821b8b25" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/0f06a870-3c90-447c-a1c2-d026e3ef353b" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/10b0ba10-7da4-486c-867b-69ed96cce43a" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/a270c07f-1a03-4a07-8a83-5ac8516440a6" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/0b1033c6-9d15-45fe-a960-6286bd7af9b3" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/941a019a-9b77-40e8-aca8-9562ae875dc8" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/d36589a9-ca09-480b-8b97-c2be5db1f470" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/a8756de2-842d-4348-81b5-8213804cb4a6" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/427dff4e-6eee-4227-b924-8069b3073371" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/2f28dcd2-00da-421f-9fcd-75a8e0c476f0" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/67baccba-7b77-4d0d-ae6a-c28bf7e48b2c" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/f92658e3-caa9-42c3-a333-42b33789078b" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/563e7f9e-aa09-47a8-b13b-f25f8fef905f" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/1e75c51c-d3bb-47a7-ab52-65cdf99ea43c" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/de5f1221-a777-4378-93c9-133d85ccb1e7" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/d203e0e1-2917-4bd1-a7cb-ee43a70e4b2e" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/b0f96d55-7985-4916-a44f-22c0b557c838" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/186875c9-6fc7-434a-8dd6-46d7f6e1e222" />
+<img width="295" height="575" alt="image" src="https://github.com/user-attachments/assets/211d79d1-4130-408f-a28b-b3511e62baf2" />
 
 # Tech Stack
 - React Native
@@ -101,6 +120,9 @@ utils/
 - **Removed unneeded state.** The `lastAddedDish` state was removed because the success message is now built when the dish is added.
 - **Efficient calculations.** The filtered list and the statistics use `useMemo`, so they are only recalculated when the menu, search text or filter changes.
 - **Clearer code.** Descriptive function and variable names, with comments explaining each part.
+
+# References
+React Native, 2026. React Native Documentation. [online] Available at: <https://reactnative.dev/docs/getting-started> [Accessed 24 October 2026].
 
 # Author
 Relebohile Thato Phalatsi
